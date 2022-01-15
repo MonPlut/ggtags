@@ -335,7 +335,7 @@ Set to nil to disable tag highlighting."
 (defvar ggtags-global-error "match"
   "Stem of message to print when no matches are found.")
 
-(defconst ggtags-bug-url "https://github.com/leoliu/ggtags/issues")
+(defconst ggtags-bug-url "https://github.com/MonPlut/ggtags/issues")
 
 (defvar ggtags-global-last-buffer nil)
 
